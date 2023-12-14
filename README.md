@@ -1,4 +1,4 @@
-# Profile: Moghees Ahmad
+# Moghees Ahmad
 
 ## Overview
 
@@ -25,4 +25,5 @@
 ## Connect With Me
 
 🔐 **[HackTheBox](https://app.hackthebox.com/profile/1169705) , [TryHackMe](https://tryhackme.com/p/mogheesahmad244)**
+
 🔗 **[LinkedIn](www.linkedin.com/in/moghees-ahmad-064a94188)**
