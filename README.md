@@ -26,4 +26,4 @@
 
 🔐 **[HackTheBox](https://app.hackthebox.com/profile/1169705) , [TryHackMe](https://tryhackme.com/p/mogheesahmad244)**
 
-🔗 **<a href="www.linkedin.com/in/moghees-ahmad-064a94188">Linked In</a>**
+🔗 **<a href="https://www.linkedin.com/in/moghees-ahmad-064a94188">LinkedIn</a>**
