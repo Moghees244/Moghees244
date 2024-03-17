@@ -1,0 +1,49 @@
+First of all I am a student myself, so what I will tell is based on my personal research and my discussions with some people in industry.
+First of all cybersecurity is not all about ethical hacking there are other fields as well like digital forensics, SOC analyst etc. Dont forget to explore them.
+
+So my suggested roadmap is:
+
+1. Focus on your programming it is important in my opinion some people say its not but i dont think so
+
+2. Since you know linux, go to this link and study this module and see if their is anything you dont know. Complete the module.
+https://academy.hackthebox.com/module/details/18
+
+3. study COAL as it will help in exploit dev or malware analysis etc in future. and then play crackmes
+
+4. Networking
+https://academy.hackthebox.com/module/details/34
+go to this link and complete this module. This will give you a good idea of networking. After that I would say study course of CCNA from youtube or read book if you can. 
+
+5. Once done with that learn to use wireshark properly.
+https://academy.hackthebox.com/module/details/81
+
+Now you are ready to jump into cybersecurity
+
+- Explore different fields of cybersecurity.Study about them and choose one.
+
+1. For defensive security, i recommend taking this course:
+https://academy.hackthebox.com/path/preview/soc-analyst
+
+2. For offensive security:
+bug bounty hunter or web pentester: 
+Learn basic web development(basics, access controls and other security measures and how they are implemented etc)
+Then go to this course:
+https://academy.hackthebox.com/path/preview/bug-bounty-hunter
+https://university.apisec.ai/login
+https://portswigger.net/web-security/all-topics
+
+Active directory Pentesting:
+https://academy.hackthebox.com/module/details/74
+and then 
+https://academy.hackthebox.com/path/preview/penetration-tester
+
+almost all the resources I gave you are free. HTB academy modules are free as you will get 30 cubes free and you can buy those modules
+
+https://academy.hackthebox.com/path/preview/penetration-tester
+https://academy.hackthebox.com/path/preview/bug-bounty-hunter
+https://academy.hackthebox.com/path/preview/soc-analyst
+These 3 are paid. 8 dollars a month 
+
+dont buy them now. Buy them when you have covered all the basics and covered all the free resources
+They are worth spending money on.
+Also check tryhackme for interesting rooms.
