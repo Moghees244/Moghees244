@@ -2,7 +2,7 @@
 
 ## Overview
 
-🚀 I'm working as DevOps Engineer at Siemens Digital Industries Software. I have passion for Cybersecurity and Machine Learning. As I embark on my journey, I'm actively exploring and applying my skills in these dynamic fields.
+🚀 I'm working as Software Engineer at Siemens Digital Industries Software. I have passion for Cybersecurity and Machine Learning. As I embark on my journey, I'm actively exploring and applying my skills in these dynamic fields.
 
 ## Research Interests
 
