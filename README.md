@@ -2,13 +2,7 @@
 
 ## Overview
 
-🚀 I'm working as Software Engineer at Siemens Digital Industries Software. I have passion for Cybersecurity and Machine Learning. As I embark on my journey, I'm actively exploring and applying my skills in these dynamic fields.
-
-## Research Interests
-
-🔒 **Cybersecurity:** My current focus lies in cybersecurity, where I'm honing my skills to safeguard digital landscapes. Engaging in CTFs on platforms like TryHackMe and HackTheBox keeps me on my toes and sharpens my problem-solving abilities.
-
-🤖 **Machine Learning:** Delving into the world of ML, I'm fascinated by its applications and potential to transform industries. I have worked on Malware Detection systems for Android Devices.
+🚀 I'm working as Software Engineer at Siemens Digital Industries Software. I have passion for Cybersecurity specifically in Red Teaming and Pentesting. As I embark on my journey, I'm actively exploring and applying my skills in this dynamic field.
 
 ## Learning Journey
 
@@ -18,7 +12,7 @@
 
 ## Current Activities
 
-🛠️ **Projects:** Exploring ML and cybersecurity applications, my GitHub is a playground for projects. Feel free to check them out!
+🛠️ **Projects:** Exploring Red Teaming & Pentesting, my GitHub is a playground for projects. Here are my [notes](https://moghees-ahmad.gitbook.io/notes), feel free to check them out!
 
 🔭 **CTFs:** Catch me in the virtual trenches of Capture The Flag challenges. Always up for a friendly competition and collaborative problem-solving.
 
