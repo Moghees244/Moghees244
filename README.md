@@ -2,7 +2,7 @@
 
 ## Overview
 
-🚀 I'm working as Security Engineer at Tecvity/Exfiltra. I have passion for Cybersecurity specifically in Red Teaming and Pentesting. As I embark on my journey, I'm actively pursuing cybersecurity education, I'm enrolled in courses and challenges on platforms like Coursera, HackTheBox and Portswigger Academy.
+🚀 I'm a Cybersecurity Engineer. I have passion for Cybersecurity specifically in Red Teaming and Pentesting. As I embark on my journey, I'm actively pursuing cybersecurity education, I'm enrolled in courses and challenges on platforms like Coursera, HackTheBox and Portswigger Academy.
 
 ## Current Activities
 
