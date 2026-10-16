@@ -16,8 +16,6 @@
   <img src="./assets/terminal.svg" alt="terminal: whoami" width="100%"/>
 </p>
 
-I'm a cybersecurity professional with hands-on, real-world penetration testing experience. I run end-to-end engagements, from recon and exploitation through to reporting and remediation guidance tailored to each client's infrastructure, using both manual techniques and automated tooling. Along the way I've uncovered many critical vulnerabilities across web, mobile, API and cloud targets.
-
 ---
 
 ## 🛡️ Certifications
@@ -109,10 +107,6 @@ I'm a cybersecurity professional with hands-on, real-world penetration testing e
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moghees244&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Moghees244&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003b00&hide_border=true&custom_title=Contribution%20Activity" />
-</p>
-
 ---
 
 ## 🤝 Connect With Me
@@ -120,8 +114,6 @@ I'm a cybersecurity professional with hands-on, real-world penetration testing e
 <p align="center">
   <a href="https://app.hackthebox.com/profile/1169705"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
   <a href="https://www.linkedin.com/in/moghees-ahmad-064a94188"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://moghees-ahmad.gitbook.io/notes"><img src="https://img.shields.io/badge/Notes-GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white"/></a>
-  <a href="https://www.upwork.com/freelancers/mogheesa2"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/></a>
   <a href="mailto:mogheesahmad244@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
