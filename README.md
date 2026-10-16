@@ -91,15 +91,6 @@
 
 ---
 
-## 🔭 What I'm Up To
-
-- 🏴‍☠️ **CTFs & Labs** — always in the virtual trenches. Walkthroughs live in my [CTF repo](https://github.com/Moghees244/CTF).
-- 📒 **Notes** — my pentesting & red team knowledge base: [moghees-ahmad.gitbook.io/notes](https://moghees-ahmad.gitbook.io/notes)
-- 🧪 **Research** — building tooling, deliberately vulnerable apps, and poking at whatever looks breakable.
-- 🎤 **Teaching** — running cybersecurity sessions for students.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
