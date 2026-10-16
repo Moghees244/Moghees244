@@ -8,13 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTB-CAPE-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTB-CPTS-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Zero--Point-CRTO-E53935?style=for-the-badge&logo=target&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=Moghees244&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS" />
-</p>
-
 ---
 
 ## 🧑‍💻 `cat about.txt`
@@ -32,44 +25,22 @@ I'm a cybersecurity professional with hands-on, real-world penetration testing e
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="https://img.shields.io/badge/-CAPE-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" height="28"/><br/>
+      <a href="https://www.credly.com/badges/e85e2176-1793-490c-b863-6d497aafb80c/public_url"><img src="https://img.shields.io/badge/-CAPE-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" height="28"/></a><br/>
       <sub><b>Certified Active Directory<br/>Pentesting Expert</b></sub><br/>
       <sub>HackTheBox</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.shields.io/badge/-CPTS-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" height="28"/><br/>
+      <a href="https://www.credly.com/badges/95f798e5-bd8a-4d97-a10b-1864ca3df218/public_url"><img src="https://img.shields.io/badge/-CPTS-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" height="28"/></a><br/>
       <sub><b>Certified Penetration<br/>Testing Specialist</b></sub><br/>
       <sub>HackTheBox</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.shields.io/badge/-CRTO-E53935?style=flat-square&logo=target&logoColor=white" height="28"/><br/>
+      <a href="https://certs.zeropointsecurity.co.uk/0b0c2d58-b26e-401c-826f-af23675b2e21"><img src="https://img.shields.io/badge/-CRTO-E53935?style=flat-square&logo=target&logoColor=white" height="28"/></a><br/>
       <sub><b>Certified Red Team<br/>Operator</b></sub><br/>
       <sub>Zero-Point Security</sub>
     </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/-Cubus-4285F4?style=flat-square&logo=googlecloud&logoColor=white" height="28"/><br/>
-      <sub><b>GCP Red Team<br/>Lab</b></sub><br/>
-      <sub>Cubus</sub>
-    </td>
   </tr>
 </table>
-
----
-
-## 💼 Experience
-
-```diff
-+ [Sep 2026 — Present]   Offensive Security Engineer      @ Tkxel
-! [Nov 2025 — Sep 2026]  Application Security Officer     @ The Bank of Punjab
-!                        › Pentests of web, Android/iOS & thick-client apps
-!                        › Architecture & source code reviews, WAF policy tuning
-! [Mar 2025 — Oct 2025]  Security Engineer                @ Exfiltra
-!                        › Black/grey-box web & mobile pentests, cloud security audits
-!                        › Vulnerability research & open-source contributions
-- [Jul 2024 — Mar 2025]  Software Engineer                @ Siemens Digital Industries Software
--                        › GitLab CI/CD pipelines, private runners, test automation
-- [Jul 2022 — Jan 2023]  Freelancer                       › Web apps & Unity games
-```
 
 ---
 
@@ -139,20 +110,7 @@ I'm a cybersecurity professional with hands-on, real-world penetration testing e
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Moghees244&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-</p>
-
-<p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Moghees244&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003b00&hide_border=true&custom_title=Contribution%20Activity" />
-</p>
-
-<!-- Snake animation: generated daily by .github/workflows/snake.yml -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moghees244/Moghees244/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moghees244/Moghees244/output/github-contribution-grid-snake.svg" />
-    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Moghees244/Moghees244/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
 </p>
 
 ---
